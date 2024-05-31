@@ -1,6 +1,6 @@
 ## Usage
 
-1. To shorten a URL, navigate to the `api/shorten` endpoint and provide the original URL to post json request
+1. To shorten a URL, navigate to the `api/shorten` endpoint and provide the original URL to post json request e.g
  {
       "originalUrl": "http://example.com"
   }
